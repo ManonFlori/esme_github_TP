@@ -15,4 +15,11 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+<<<<<<< HEAD
 
+=======
+essai depuis la branche documentation
+ajout 2 depuis la branche documentation
+ajout 3 depuis la branche documentation
+ajout partie 3 depuis la branche documentation
+>>>>>>> documentation
