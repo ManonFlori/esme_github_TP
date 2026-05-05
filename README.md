@@ -16,6 +16,7 @@ Include the files used
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 essai depuis la branche documentation
@@ -23,3 +24,7 @@ ajout 2 depuis la branche documentation
 ajout 3 depuis la branche documentation
 ajout partie 3 depuis la branche documentation
 >>>>>>> documentation
+=======
+Change in part 4
+change bis
+>>>>>>> refactoring
